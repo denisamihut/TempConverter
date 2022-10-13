@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body {
+    text-align: center;
+    background-color:antiquewhite;
+
+}
+.columns   {
+    text-align: center;
+    margin-top: 50px;
+}
+.container h1 {
+    color:black;
+    margin-top: 100px;
+
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+
